@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **C++,Vue, JS, HTML and CSS**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **utkarshgupta110092@gmail.com**
 
